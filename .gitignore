@@ -1,6 +1,7 @@
 .local/
 .cask/
 var/
+kylec
 /init.el
 
 # emacs tempfiles that shouldn't be there
